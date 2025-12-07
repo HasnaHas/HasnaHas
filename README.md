@@ -2,7 +2,7 @@
   
 # ⚡ Hasna Hilmy ⚡
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Software+Engineer;UI%2FUX+Designer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Software+Engineer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=fff&animation=twinkling"/>
 
@@ -16,7 +16,6 @@
 const hasna = {
     education: "BICT (Hons), University of Sri Jayewardenepura",
     role: "Software Engineer & UI/UX Designer",
-    specialization: "Full-Stack Development",
     mainSkills: {
         frontend: ["React.js", "Next.js", "HTML5", "CSS3", "JavaScript"],
         backend: ["Node.js", "Express", "Python","PHP"],
@@ -108,13 +107,6 @@ const hasna = {
 
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaHas&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

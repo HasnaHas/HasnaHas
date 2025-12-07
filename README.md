@@ -76,30 +76,36 @@ const hasna = {
 
 </div>
 
-## ✨ Upcoming Projects
+## ✨ Full- Stack 
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" width="300px" alt="E-commerce"/>
-      <br />
-      <h3>🛍️ E-commerce Platform</h3>
-      <p>Full-featured online shopping platform with real-time inventory</p>
-      <p><strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe</p>
+      <h3>🍔 Zesty - Food Delivery Web App</h3>
+      <p>MERN-based food delivery web app with secure auth and admin panel</p>
+      <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, Stripe</p>
+      <p><a href="https://github.com/HasnaHas/Zesty-Food-Delivery-App" target="_blank">View on GitHub</a></p>
       <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-9C27B0?style=for-the-badge"/>
     </td>
     <td align="center">
-      <img src="https://cdn.dribbble.com/users/1698856/screenshots/4773585/media/6b1fef1c4ea654fbba2c2386be478381.gif" width="300px" alt="Taskly"/>
-      <br />
-      <h3>📋 Taskly</h3>
-      <p>Smart task management with AI-powered prioritization</p>
-      <p><strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL</p>
-      <img src="https://img.shields.io/badge/STATUS-DESIGN%20PHASE-9C27B0?style=for-the-badge"/>
+      <h3>🍽️ Lanka Delight - Restaurant Reservation System</h3>
+      <p>MERN reservation system with easy booking and manual admin approvals</p>
+      <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, Tailwind CSS</p>
+      <p><a href="https://github.com/HasnaHas/Lanka-Delight-Reservation" target="_blank">View on GitHub</a></p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-9C27B0?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <h3>🥗 DBuddy - Smart Diet Buddy - Group Project</h3>
+      <p>Mobile app to detect meal calories and track daily nutrition</p>
+      <p><strong>Tech Stack:</strong> Flutter, Python, Firebase, EfficientNet</p>
+      <p><a href="https://github.com/Group01Dbuddy/Dbuddy-001" target="_blank">View on GitHub</a></p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-9C27B0?style=for-the-badge"/>
     </td>
   </tr>
 </table>
+---
+
 
 </div>
 
@@ -118,7 +124,6 @@ const hasna = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-hasna-hilmy)
 [![GitHub](https://img.shields.io/badge/GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasnaHas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9C27B0?style=for-the-badge&logo=About.me&logoColor=white)](javascript:void(0))
 
 </div>
 

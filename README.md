@@ -86,7 +86,7 @@ const hasna = {
       <p>MERN-based food delivery web app with secure auth and admin panel</p>
       <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, Stripe</p>
       <p><a href="https://github.com/HasnaHas/Zesty-Food-Delivery-App" target="_blank">View on GitHub</a></p>
-      <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-9C27B0?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-9C27B0?style=for-the-badge"/>
     </td>
     <td align="center">
       <h3>🍽️ Lanka Delight - Restaurant Reservation System</h3>

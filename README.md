@@ -2,7 +2,7 @@
   
 # ⚡ Hasna Hilmy ⚡
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Software+Engineer;UI%2FUX+Designer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Software+Engineer;MERN+Developer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=fff&animation=twinkling"/>
 
@@ -15,7 +15,7 @@
 ```typescript
 const hasna = {
     education: "BICT (Hons), University of Sri Jayewardenepura",
-    role: "Software Engineer & UI/UX Designer",
+    role: "Software Engineer & MERN Developer",
     mainSkills: {
         frontend: ["React.js", "Next.js", "HTML5", "CSS3", "JavaScript"],
         backend: ["Node.js", "Express", "Python","PHP"],
@@ -25,43 +25,72 @@ const hasna = {
     },
     passions: ["Clean Code", "Responsive Design", "User Experience"],
     currentlyLearning: ["UI/UX Design", "AI/ML-based Development", "Advanced React Patterns", "System Design"]
-};
+}; ```
+
+```
+
 ## 💻 Tech Stack
 
 <div align="center">
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma&theme=dark&perline=3)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,python,django,fastapi,flask&theme=dark&perline=7)](https://skillicons.dev)
 
 ### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&theme=dark&perline=4)](https://skillicons.dev)
+
+</div>
+
+## ✨ Full- Stack 
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>🍔 Zesty - Food Delivery Web App</h3>
+      <p>MERN-based food delivery web app with secure auth and admin panel</p>
+      <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, Stripe</p>
+      <p><a href="https://github.com/HasnaHas/Zesty-Food-Delivery-App" target="_blank">View on GitHub</a></p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-9C27B0?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <h3>🍽️ Lanka Delight - Restaurant Reservation System</h3>
+      <p>MERN reservation system with easy booking and manual admin approvals</p>
+      <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, Tailwind CSS</p>
+      <p><a href="https://github.com/HasnaHas/Lanka-Delight-Reservation" target="_blank">View on GitHub</a></p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-9C27B0?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <h3>🥗 DBuddy - Smart Diet Buddy - Group Project</h3>
+      <p>Mobile app to detect meal calories and track daily nutrition</p>
+      <p><strong>Tech Stack:</strong> Flutter, Python, Firebase, EfficientNet</p>
+      <p><a href="https://github.com/Group01Dbuddy/Dbuddy-001" target="_blank">View on GitHub</a></p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-9C27B0?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+---
+
+
+</div>
 
 </div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-hasna-hilmy)
 [![GitHub](https://img.shields.io/badge/GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasnaHas)
+
 </div>
 
+---
 <div align="center">
-<i>Happy Coding! 👩‍💻 Currently exploring UI/UX and AI/ML-based development</i>
+<i>Happy Coding! 👨‍💻</i>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer"/>
 

@@ -27,24 +27,31 @@ const hasna = {
     currentlyLearning: ["UI/UX Design", "AI/ML-based Development", "Advanced React Patterns", "System Design"]
 };
 
+## 💻 Tech Stack
 
-💻 Tech Stack
-<div align="center">
-🎨 Frontend Development
-
-
-
-
-⚙️ Backend Development
-
-🗄️ Databases & Cloud
-
-</div>
-🤝 Connect With Me
 <div align="center">
 
+### 🎨 Frontend Development
+[![React](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts&theme=dark&perline=6)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=bootstrap,tailwind,figma&theme=dark&perline=3)](https://skillicons.dev)
 
+### ⚙️ Backend Development
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,php&theme=dark&perline=4)](https://skillicons.dev)
 
+### 🗄️ Databases & Cloud
+[![Database](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&theme=dark&perline=4)](https://skillicons.dev)
 
 </div>
-<div align="center"> <i>Happy Coding! 👩‍💻 Currently exploring UI/UX and AI/ML-based development</i> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer"/> ```
+
+## 🤝 Connect With Me
+
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-hasna-hilmy)
+[![GitHub](https://img.shields.io/badge/GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasnaHas)
+</div>
+
+<div align="center">
+<i>Happy Coding! 👩‍💻 Currently exploring UI/UX and AI/ML-based development</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer"/>

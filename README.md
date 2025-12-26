@@ -26,3 +26,25 @@ const hasna = {
     passions: ["Clean Code", "Responsive Design", "User Experience"],
     currentlyLearning: ["UI/UX Design", "AI/ML-based Development", "Advanced React Patterns", "System Design"]
 };
+
+
+💻 Tech Stack
+<div align="center">
+🎨 Frontend Development
+
+
+
+
+⚙️ Backend Development
+
+🗄️ Databases & Cloud
+
+</div>
+🤝 Connect With Me
+<div align="center">
+
+
+
+
+</div>
+<div align="center"> <i>Happy Coding! 👩‍💻 Currently exploring UI/UX and AI/ML-based development</i> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer"/> ```
